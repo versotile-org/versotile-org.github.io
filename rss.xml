@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+      <title>Versotile</title>
+      <link>https://versotile.org</link>
+      <description>website of the organization Versotile</description>
+      <generator>Zola</generator>
+      <language>en</language>
+      <atom:link href="https://versotile.org/rss.xml" rel="self" type="application/rss+xml"/>
+      <lastBuildDate>Mon, 01 Jul 2024 00:00:00 +0000</lastBuildDate>
+      <item>
+          <title>Nightly releases</title>
+          <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
+          <author>Versotile</author>
+          <link>https://versotile.org/nightly/</link>
+          <guid>https://versotile.org/nightly/</guid>
+          <description xml:base="https://versotile.org/nightly/">&lt;p&gt;Check out the &lt;code&gt;nightly&lt;&#x2F;code&gt; release builds at &lt;strong&gt;CrabNebula Cloud&lt;&#x2F;strong&gt;!&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;web.crabnebula.cloud&#x2F;verso&#x2F;verso-nightly&#x2F;releases&quot;&gt;Verso Browser&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</description>
+      </item>
+      <item>
+          <title>Versotile website launched!</title>
+          <pubDate>Thu, 27 Jun 2024 00:00:00 +0000</pubDate>
+          <author>Versotile</author>
+          <link>https://versotile.org/blog/website-launched/</link>
+          <guid>https://versotile.org/blog/website-launched/</guid>
+          <description xml:base="https://versotile.org/blog/website-launched/">&lt;p&gt;What could I say? I&#x27;m happy to announce this small but significant milestone!&lt;&#x2F;p&gt;
+</description>
+      </item>
+    </channel>
+</rss>
