@@ -10,7 +10,7 @@ model formats such as ONNX, and implement a basic API for interaction with diffe
 and types. This approach aims to make it easy for everyday users to load and run AI models without worrying 
 about specifics, and further also provides web developers with
 simpler access through a minimal API for integration in web content. The intended abstraction layer will
-be implemented to the Servo webview, and the expected deliverable is a source code library that runs 
+be implemented in the Servo webview, and the expected deliverable is a source code library that runs 
 cross-platform within the Verso browser. With this approach, we aim to provide the first stepping stone
 towards a coherent user experience for using machine learning models in a browser such as a11y, DID service 
 brokerage, predictive page loading, etc.
