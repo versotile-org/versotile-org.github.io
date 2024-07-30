@@ -3,7 +3,7 @@ title = "Verso ACCELERATE - Abstraction Layer for Simplified Integration of Mach
 path = "accelerate"
 +++
 
-This project aims to develop an machine learning model abstraction layer for the novel open source browser 
+This project aims to develop a machine learning model abstraction layer for the novel open source browser 
 “Verso” to seamlessly load and utilize various machine learning models. The proposed solution involves using 
 the Rust programming language and will provide bindings to existing machine learning libraries, use common 
 model formats such as ONNX, and implement a basic API for interaction with different model architectures 
