@@ -8,7 +8,7 @@ This project aims to develop a machine learning model abstraction layer for the 
 the Rust programming language and will provide bindings to existing machine learning libraries, use common 
 model formats such as ONNX, and implement a basic API for interaction with different model architectures 
 and types. This approach aims to make it easy for everyday users to load and run AI models without worrying 
-about specifics, and further also provide web developers with
+about specifics, and further also provides web developers with
 simpler access through a minimal API for integration in web content. The intended abstraction layer will
 be implemented to the Servo webview, and the expected deliverable is a source code library that runs 
 cross-platform within the Verso browser. With this approach, we aim to provide the first stepping stone
