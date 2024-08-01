@@ -1,5 +1,5 @@
 +++
-title = "Verso ACCELERATE - Modular Abstraction Layer for Simplified Integration of Machine Learning Models"
+title = "ACCELERATE - Modular Abstraction Layer for Simplified Integration of Machine Learning Models"
 path = "accelerate"
 +++
 
